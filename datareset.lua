@@ -1,4 +1,4 @@
-reset resolver data [angelsolver]
+--reset resolver data [angelsolver]
     animstate.m_sorted_targets = 0
     animstate.m_target = 0
     animstate.m_aim = 0
@@ -12,8 +12,8 @@ reset resolver data [angelsolver]
     animstate.m_best_fov = 180.0
     animstate.m_best_damage = 0.0
     animstate.m_current_matrix = 0.0
-	  animstate.m_flGoalFeetYaw = 0.0 + 0.1
-	  animstate.m_missed_shots = 0
+    animstate.m_flGoalFeetYaw = 0.0 + 0.1
+    animstate.m_missed_shots = 0
     animstate.m_shots = 0
     animstate.m_missed_shots = 0
     animstate.m_last_resolve = 0
